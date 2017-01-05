@@ -1,6 +1,7 @@
 FROM openjdk:8
 
-RUN mkdir -p /opt/packt/geolocation
+RUN mkdir -p /opt/packt/geolocation/data
+RUN chmod 777 /opt
 
 ADD target/geolocation-0.0.1-SNAPSHOT.jar /opt/packt/geolocation/
 
