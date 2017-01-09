@@ -1,0 +1,16 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: geolocation
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: geolocation
+    spec:
+      containers:
+      - name: geolocation
+        image: vikrammurugesan/geolocation:latest
+        ports:
+        - containerPort: 8080
