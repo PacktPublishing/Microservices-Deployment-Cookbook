@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: geolocation
+spec:
+  containers:
+  - image: vikrammurugesan/geolocation:latest
+    name: geolocation
+    ports:
+    - containerPort: 8080
+    volumeMounts:
+     - mountPath: /opt/packt/geolocation/data
+       name: geodata
+    env:
+    - name: GEOLOCATION_DATA_FILES_DIR
+      value: "/opt/packt/geolocation/data"
+  volumes:
+    - name: geodata
+      hostPath:
+        path: /opt/packt/geolocation/data  
