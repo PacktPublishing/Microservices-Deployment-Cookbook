@@ -1,0 +1,30 @@
+version: "2"
+
+services:
+  consul:
+    image: consul:latest
+    ports:
+      - "8500:8500"
+
+  geolocation-1:
+    image: vikrammurugesan/geolocation:latest
+    ports:
+      - "8080"
+    environment:
+      GEOLOCATION_SERVICE_PORT: "8080"
+      
+  geolocation-2:
+    image: vikrammurugesan/geolocation:latest
+    ports:
+      - "8081"
+    environment:
+      GEOLOCATION_SERVICE_PORT: "8081"
+  
+  nginx-consul-template:
+    build: .
+    links:
+      - consul
+    depends_on:
+      - consul
+    ports:
+      - "8900:80"
