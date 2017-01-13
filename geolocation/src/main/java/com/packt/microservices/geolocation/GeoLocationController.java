@@ -15,10 +15,19 @@ public class GeoLocationController {
 	@Autowired
 	private GeoLocationService service;
 
+	@Autowired
+	private MetricSystem metricSystem;
+
 	@RequestMapping(method = RequestMethod.POST, produces = "application/json", consumes = "application/json")
 	public GeoLocation create(@RequestBody GeoLocation geolocation) {
-	  return service.create(geolocation);
-	}
+	  GeoLocation newGeoLocation = service.create(geolocation);
+
+	  metricSystem.geolocationWriteRequestCount().inc();
+	  metricSystem.markGeolocationLastWriteTime();
+
+	  return newGeoLocation;
+	} 
+
 	  
 	@RequestMapping(method = RequestMethod.GET, produces = "application/json")
 	public List<GeoLocation> findAll() {
