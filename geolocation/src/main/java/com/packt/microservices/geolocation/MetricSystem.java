@@ -1,9 +1,7 @@
 package com.packt.microservices.geolocation;
 
-import java.net.InetSocketAddress;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.concurrent.TimeUnit;
 
 import javax.annotation.PostConstruct;
 
@@ -13,11 +11,8 @@ import org.springframework.stereotype.Component;
 import com.codahale.metrics.Counter;
 import com.codahale.metrics.Gauge;
 import com.codahale.metrics.Metric;
-import com.codahale.metrics.MetricFilter;
 import com.codahale.metrics.MetricRegistry;
 import com.codahale.metrics.MetricSet;
-import com.codahale.metrics.graphite.Graphite;
-import com.codahale.metrics.graphite.GraphiteReporter;
 import com.codahale.metrics.jvm.ClassLoadingGaugeSet;
 import com.codahale.metrics.jvm.GarbageCollectorMetricSet;
 import com.codahale.metrics.jvm.MemoryUsageGaugeSet;
@@ -40,14 +35,14 @@ public class MetricSystem {
 		//
 		//		consoleReporter.start(10, TimeUnit.SECONDS);
 
-		Graphite graphite = new Graphite(new InetSocketAddress("192.168.99.100", 2003));
-		GraphiteReporter graphiteReporter = GraphiteReporter.forRegistry(metricRegistry)
-				.prefixedWith("com.packt.microservices.geolocation")
-				.convertRatesTo(TimeUnit.SECONDS)
-				.convertDurationsTo(TimeUnit.MILLISECONDS)
-				.filter(MetricFilter.ALL)
-				.build(graphite);
-		graphiteReporter.start(60, TimeUnit.SECONDS);
+//		Graphite graphite = new Graphite(new InetSocketAddress("192.168.99.100", 2003));
+//		GraphiteReporter graphiteReporter = GraphiteReporter.forRegistry(metricRegistry)
+//				.prefixedWith("com.packt.microservices.geolocation")
+//				.convertRatesTo(TimeUnit.SECONDS)
+//				.convertDurationsTo(TimeUnit.MILLISECONDS)
+//				.filter(MetricFilter.ALL)
+//				.build(graphite);
+//		graphiteReporter.start(60, TimeUnit.SECONDS);
 
 
 		geolocationWriteRequestCount = metricRegistry.counter("geolocationWriteRequestCount");
