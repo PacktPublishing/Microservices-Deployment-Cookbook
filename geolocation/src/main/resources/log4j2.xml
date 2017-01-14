@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+		<Kafka name="Kafka" topic="geolocationLogs">
+			<PatternLayout pattern="%date %message" />
+			<Property name="bootstrap.servers">192.168.99.100:9092</Property>
+		</Kafka>
+	</Appenders>
+
+	<Loggers>
+		<Root level="INFO">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="Kafka" />
+		</Root>
+		<Logger name="org.apache.kafka" level="ERROR" /> <!-- avoid recursive logging -->
+	</Loggers>
+</Configuration>
