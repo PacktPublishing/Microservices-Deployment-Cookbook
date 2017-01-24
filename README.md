@@ -44,7 +44,7 @@ public class GeoLocation implements Serializable {
 
 
 
-##Related Products
+##Related Microservices Products
 * [Mastering Microservices with Java](https://www.packtpub.com/application-development/mastering-microservices-java?utm_source=github&utm_medium=repository&utm_campaign=9781785285172)
 
 * [Microservices with Azure](https://www.packtpub.com/virtualization-and-cloud/microservices-azure?utm_source=github&utm_medium=repository&utm_campaign=9781787121140)
