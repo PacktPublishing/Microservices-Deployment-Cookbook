@@ -1,5 +1,7 @@
 #Microservices Deployment Cookbook
 This is the code repository for [Microservices Deployment Cookbook](https://www.packtpub.com/virtualization-and-cloud/microservices-deployment-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786469434), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+
+
 ## About the Book
 This book will help any team or organization understand, deploy, and manage microservices at scale. It is driven by a sample application, helping you gradually build a complete microservice-based ecosystem. Rather than just focusing on writing a microservice, this book addresses various other microservice-related solutions: deployments, clustering, load balancing, logging, streaming, and monitoring.
 
@@ -7,7 +9,7 @@ The initial chapters offer insights into how web and enterprise apps can be migr
 
 Finally, we wind up by aggregating your logs in Kafka, creating your own metrics, and monitoring the metrics for the microservice.
 ##Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter02.
 
 
 
