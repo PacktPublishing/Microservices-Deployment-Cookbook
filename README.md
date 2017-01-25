@@ -1,4 +1,4 @@
-[!(https://img.shields.io/npm/l/express.svg)]
+![Build Status](https://img.shields.io/npm/l/express.svg)
 
 #Microservices Deployment Cookbook
 This is the code repository for [Microservices Deployment Cookbook](https://www.packtpub.com/virtualization-and-cloud/microservices-deployment-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786469434), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
