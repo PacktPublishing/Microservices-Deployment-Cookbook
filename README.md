@@ -1,3 +1,10 @@
+[![peerDependency Status](https://img.shields.io/david/peer/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=flat-square)](https://david-dm.org/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook#info=devDependencies)
+[![Latest Stable Version](https://img.shields.io/npm/v/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=flat-square)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
+[![License](https://img.shields.io/npm/l/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=flat-square)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
+[![NPM Downloads](https://img.shields.io/npm/dm/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=flat-square)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
+[![Latest Stable Version](https://img.shields.io/bower/v/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=flat-square)](http://bower.io/search/?q=https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
+
+
 #Microservices Deployment Cookbook
 This is the code repository for [Microservices Deployment Cookbook](https://www.packtpub.com/virtualization-and-cloud/microservices-deployment-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786469434), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
