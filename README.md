@@ -1,6 +1,4 @@
-![Build Status](https://img.shields.io/npm/l/express.svg)
-
-![Build Status](https://img.shields.io/travis/USER/REPO.svg)
+![Build Status](https://img.shields.io/npm/l/express.svg) ![Build Status](https://img.shields.io/travis/USER/REPO.svg) ![Build Status](https://img.shields.io/david/strongloop/express.svg) 
 
 
 
