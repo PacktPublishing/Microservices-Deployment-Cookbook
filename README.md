@@ -2,7 +2,7 @@
 [![Latest Stable Version](https://img.shields.io/npm/v/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=plastic)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
 [![License](https://img.shields.io/npm/l/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=plastic)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
 [![NPM Downloads](https://img.shields.io/npm/dm/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=plastic)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
-[![Latest Stable Version](https://img.shields.io/bower/v/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=plastic)](http://bower.io/search/?q=https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
+[![Latest Stable Version](https://img.shields.io/bower/v/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=plastic)](http://bower.io/search/?q=https://github.com/PacktPublishing/Microservices-Deployment-Cookbook) 
 
 
 
