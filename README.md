@@ -1,8 +1,9 @@
-[![peerDependency Status](https://img.shields.io/david/peer/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=flat-square)](https://david-dm.org/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook#info=devDependencies)
-[![Latest Stable Version](https://img.shields.io/npm/v/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=flat-square)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
-[![License](https://img.shields.io/npm/l/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=flat-square)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
-[![NPM Downloads](https://img.shields.io/npm/dm/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=flat-square)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
-[![Latest Stable Version](https://img.shields.io/bower/v/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=flat-square)](http://bower.io/search/?q=https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
+[![peerDependency Status](https://img.shields.io/david/peer/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=plastic)](https://david-dm.org/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook#info=devDependencies)
+[![Latest Stable Version](https://img.shields.io/npm/v/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=plastic)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
+[![License](https://img.shields.io/npm/l/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=plastic)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
+[![NPM Downloads](https://img.shields.io/npm/dm/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=plastic)](https://www.npmjs.com/package/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
+[![Latest Stable Version](https://img.shields.io/bower/v/https://github.com/PacktPublishing/Microservices-Deployment-Cookbook.svg?style=plastic)](http://bower.io/search/?q=https://github.com/PacktPublishing/Microservices-Deployment-Cookbook)
+
 
 
 #Microservices Deployment Cookbook
