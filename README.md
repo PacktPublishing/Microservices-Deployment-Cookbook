@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Microservices-Deployment-Cookbook.svg)](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook/issues)[![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Microservices-Deployment-Cookbook.svg)](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook/network)[![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Microservices-Deployment-Cookbook.svg)](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook/stargazers)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/PacktPublishing/Microservices-Deployment-Cookbook/master/LICENSE)
+
 #Microservices Deployment Cookbook
 This is the code repository for [Microservices Deployment Cookbook](https://www.packtpub.com/virtualization-and-cloud/microservices-deployment-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786469434), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
