@@ -1,5 +1,3 @@
-[![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Microservices-Deployment-Cookbook.svg)](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook/issues)
-
 #Microservices Deployment Cookbook
 This is the code repository for [Microservices Deployment Cookbook](https://www.packtpub.com/virtualization-and-cloud/microservices-deployment-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786469434), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
