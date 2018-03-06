@@ -1,6 +1,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Microservices-Deployment-Cookbook.svg)](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook/issues)   [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Microservices-Deployment-Cookbook.svg)](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook/network)   [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Microservices-Deployment-Cookbook.svg)](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook/stargazers)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/PacktPublishing/Microservices-Deployment-Cookbook/master/LICENSE)
 
-#Microservices Deployment Cookbook
+# Microservices Deployment Cookbook
 This is the code repository for [Microservices Deployment Cookbook](https://www.packtpub.com/virtualization-and-cloud/microservices-deployment-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786469434), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 
@@ -10,7 +10,7 @@ This book will help any team or organization understand, deploy, and manage micr
 The initial chapters offer insights into how web and enterprise apps can be migrated to scalable microservices. Moving on, you’ll see how to Dockerize your application so that it is ready to be shipped and deployed. We will look at how to deploy microservices on Mesos and Marathon and will also deploy microservices on Kubernetes. Next, you will implement service discovery and load balancing for your microservices. We’ll also show you how to build asynchronous streaming systems using Kafka Streams and Apache Spark.
 
 Finally, we wind up by aggregating your logs in Kafka, creating your own metrics, and monitoring the metrics for the microservice.
-##Instructions and Navigation
+## Instructions and Navigation
 All of the code is organized into folders. For example, Chapter02.
 
 
@@ -46,14 +46,11 @@ public class GeoLocation implements Serializable {
 
 
 
-##Related Microservices Products
+## Related Microservices Products
 * [Mastering Microservices with Java](https://www.packtpub.com/application-development/mastering-microservices-java?utm_source=github&utm_medium=repository&utm_campaign=9781785285172)
 
 * [Microservices with Azure](https://www.packtpub.com/virtualization-and-cloud/microservices-azure?utm_source=github&utm_medium=repository&utm_campaign=9781787121140)
 
 * [Developing Microservices with Node.js](https://www.packtpub.com/web-development/developing-microservices-nodejs?utm_source=github&utm_medium=repository&utm_campaign=9781785887406)
 
-
-###Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
 
