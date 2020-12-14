@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/microservices-deployment-cookbook/9781786469434)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/178646943X).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Microservices-Deployment-Cookbook.svg)](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook/issues)   [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Microservices-Deployment-Cookbook.svg)](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook/network)   [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/Microservices-Deployment-Cookbook.svg)](https://github.com/PacktPublishing/Microservices-Deployment-Cookbook/stargazers)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/PacktPublishing/Microservices-Deployment-Cookbook/master/LICENSE)
 
 # Microservices Deployment Cookbook
